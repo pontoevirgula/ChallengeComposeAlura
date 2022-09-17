@@ -1,5 +1,5 @@
 # ChallengeComposeAlura
 Android #7DaysOfCode
 
-#JetpackCompose
-#Kotlin
+- JetpackCompose
+- Kotlin
